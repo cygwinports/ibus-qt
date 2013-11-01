@@ -1,8 +1,0 @@
-category: KDE
-requires: libdbus1_3 libgcc1 libQtCore4 libQtDBus4 libQtXml4 libstdc++6
-external-source: ibus-qt
-sdesc: "Qt4 IBus library (runtime)"
-ldesc: "IBus is an Intelligent Input Bus. It is a new input framework 
-for Linux OS. It provides full featured and user friendly input method 
-user interface. It also may help developers to develop input method 
-easily."
